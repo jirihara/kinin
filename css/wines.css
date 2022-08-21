@@ -1,0 +1,727 @@
+/* screen - wines */
+
+.wines {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 2525.72px;
+  min-width: 401px;
+  padding: 60px 44px;
+  width: 100%;
+}
+
+.wines .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.wines .group-18198 {
+  height: 101px;
+  min-width: 151px;
+}
+
+.wines .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 147px;
+}
+
+.wines .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50.5px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.wines .text-1-1 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.wines .group-18235 {
+  height: 238px;
+  min-width: 262px;
+  position: relative;
+}
+
+.wines .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 238px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.wines .group-18158 {
+  align-items: flex-end;
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  display: flex;
+  flex-direction: column;
+  min-height: 66px;
+  padding: 9px 12px;
+  width: 121px;
+}
+
+.wines .text {
+  letter-spacing: 0;
+  min-height: 28px;
+  text-align: center;
+  width: 96px;
+}
+
+.wines .place-1 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.wines .group-181 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 66px;
+  padding: 7px 11px;
+  width: 121px;
+}
+
+.wines .cocktails {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.wines .coffee-tea {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.wines .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 141px;
+  min-height: 152px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.wines .group-18159 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  min-height: 66px;
+  padding: 7px 11px;
+  width: 121px;
+}
+
+.wines .place-2 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.wines .soft-drinks {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.wines .group-18248 {
+  height: 63.9px;
+  margin-right: -4px;
+  min-width: 317px;
+  position: relative;
+}
+
+.wines .text-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.wines .red-wine {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 40px;
+  width: 300px;
+}
+
+.wines .group-18 {
+  height: 94px;
+  margin-right: -2px;
+  min-width: 315px;
+}
+
+.wines .overlap-group {
+  height: 94px;
+  position: relative;
+  width: 317px;
+}
+
+.wines .frame {
+  height: 37px;
+  left: 164px;
+  position: absolute;
+  top: 32px;
+  width: 19px;
+}
+
+.wines .group-18-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 94px;
+  position: absolute;
+  top: 0;
+  width: 317px;
+}
+
+.wines .ginestet-bordeaux-france {
+  letter-spacing: 0;
+  min-height: 12px;
+  width: 313px;
+}
+
+.wines .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 1px;
+  margin-top: 20px;
+  min-width: 91px;
+}
+
+.wines .frame-1 {
+  height: 37px;
+  width: 21px;
+}
+
+.wines .glass-4 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 38px;
+  min-width: 60px;
+}
+
+.wines .line {
+  height: 2px;
+  margin-left: 1px;
+  margin-top: 18px;
+  width: 312px;
+}
+
+.wines .bottle-20 {
+  left: 193px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 36px;
+}
+
+.wines .group-18306 {
+  height: 114px;
+  margin-right: -2px;
+  min-width: 315px;
+}
+
+.wines .overlap-group2 {
+  height: 114px;
+  position: relative;
+  width: 317px;
+}
+
+.wines .frame-4 {
+  height: 37px;
+  left: 164px;
+  position: absolute;
+  top: 52px;
+  width: 19px;
+}
+
+.wines .group-18305 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 114px;
+  position: absolute;
+  top: 0;
+  width: 317px;
+}
+
+.wines .g-bertrand-6-eme-sen {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 313px;
+}
+
+.wines .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 1px;
+  margin-top: 20px;
+  min-width: 113px;
+}
+
+.wines .glass {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 38px;
+  min-width: 82px;
+}
+
+.wines .bottle-17 {
+  left: 193px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 56px;
+}
+
+.wines .group-18309 {
+  height: 95px;
+  min-width: 313px;
+}
+
+.wines .group-18302 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 95px;
+  width: 317px;
+}
+
+.wines .kaiken-estate-malbec-argentina {
+  letter-spacing: 0;
+  min-height: 13px;
+  width: 313px;
+}
+
+.wines .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 3px;
+  margin-top: 20px;
+  min-width: 102px;
+}
+
+.wines .frame-2 {
+  height: 37px;
+  width: 19px;
+}
+
+.wines .bottle {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 10px;
+  min-height: 38px;
+  min-width: 73px;
+}
+
+.wines .group-1831 {
+  height: 114px;
+  min-width: 313px;
+}
+
+.wines .group-18301 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 114px;
+  width: 317px;
+}
+
+.wines .chateau-haute-mangau {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 313px;
+}
+
+.wines .group-18308 {
+  height: 94px;
+  min-width: 313px;
+}
+
+.wines .group-18303 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 94px;
+  width: 317px;
+}
+
+.wines .maison-forgeot-pinot-noir-france {
+  letter-spacing: 0;
+  min-height: 12px;
+  width: 313px;
+}
+
+.wines .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 4px;
+  margin-top: 20px;
+  min-width: 101px;
+}
+
+.wines .bottle-2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 9px;
+  min-height: 38px;
+  min-width: 73px;
+}
+
+.wines .group-18166 {
+  height: 65.95px;
+  margin-right: -4px;
+  min-width: 317px;
+  position: relative;
+}
+
+.wines .text-8 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 282px;
+}
+
+.wines .surname {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 42px;
+  width: 313px;
+}
+
+.wines .e-got-chardonnaytrebbiano-italy {
+  letter-spacing: 0;
+  min-height: 12px;
+  width: 313px;
+}
+
+.wines .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 1px;
+  margin-top: 20px;
+  min-width: 182px;
+}
+
+.wines .frame-5 {
+  height: 37px;
+  margin-top: 0;
+  width: 21px;
+}
+
+.wines .overlap-group-2 {
+  height: 37px;
+  margin-left: 72px;
+  position: relative;
+  width: 19px;
+}
+
+.wines .group {
+  height: 19px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.wines .vector {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.wines .vector-1 {
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 15px;
+  width: 19px;
+}
+
+.wines .vector-4 {
+  height: 3px;
+  left: 2px;
+  position: absolute;
+  top: 34px;
+  width: 15px;
+}
+
+.wines .vector-2 {
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 8px;
+}
+
+.wines .vector-3 {
+  height: 11px;
+  left: 8px;
+  position: absolute;
+  top: 18px;
+  width: 8px;
+}
+
+.wines .group-18297 {
+  height: 95px;
+  min-width: 313px;
+  position: relative;
+}
+
+.wines .line-68 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 93px;
+  width: 312px;
+}
+
+.wines .overlap-group4 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 317px;
+}
+
+.wines .frame-6 {
+  height: 37px;
+  left: 3px;
+  position: absolute;
+  top: 33px;
+  width: 19px;
+}
+
+.wines .group-18295 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 75px;
+  position: absolute;
+  top: 0;
+  width: 317px;
+}
+
+.wines .twin-islands-sauvignon-blanc-nz {
+  letter-spacing: 0;
+  min-height: 13px;
+  width: 313px;
+}
+
+.wines .flex-row-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 3.0px;
+  margin-top: 20px;
+  min-width: 102px;
+}
+
+.wines .overlap-group-3 {
+  height: 36px;
+  position: relative;
+  width: 19px;
+}
+
+.wines .vector-5 {
+  height: 19px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.wines .group-18-2 {
+  height: 114px;
+  min-width: 313px;
+  position: relative;
+}
+
+.wines .line-1 {
+  height: 2px;
+  left: 1px;
+  position: absolute;
+  top: 112px;
+  width: 312px;
+}
+
+.wines .group-18292 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 94px;
+  position: absolute;
+  top: 0;
+  width: 319px;
+}
+
+.wines .sanama-reserva-sauvignon-blanc-chile {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 313px;
+}
+
+.wines .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 1px;
+  margin-top: 20px;
+  min-width: 265px;
+}
+
+.wines .frame-3 {
+  height: 37px;
+  margin-left: 50px;
+  width: 19px;
+}
+
+.wines .maison-ventenac-mari {
+  letter-spacing: 0;
+  min-height: 31px;
+  width: 313px;
+}
+
+.wines .flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-left: 4px;
+  margin-top: 21px;
+  min-width: 101px;
+}
+
+.wines .group-1831-1 {
+  height: 65px;
+  margin-right: -4px;
+  min-width: 317px;
+  position: relative;
+}
+
+.wines .text-9 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 141px;
+}
+
+.wines .sparkling-wine {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 41px;
+  width: 313px;
+}
+
+.wines .group-18296 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 114px;
+  width: 313px;
+}
+
+.wines .angas-premium-brut {
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 313px;
+}
+
+.wines .name {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 41px;
+  width: 127px;
+}
+
+.wines .group-18178 {
+  height: 134px;
+  margin-right: -6px;
+  min-width: 319px;
+}
+
+.wines .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 134px;
+  width: 313px;
+}
+
+.wines .colombelle-lorigin {
+  letter-spacing: 0;
+  min-height: 52px;
+  width: 313px;
+}
+
+.wines .flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 42px;
+  margin-top: 20px;
+  min-width: 265px;
+}
+
+.wines .line-73 {
+  height: 2px;
+  margin-top: 18px;
+  width: 312px;
+}

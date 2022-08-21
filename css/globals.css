@@ -1,0 +1,33 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:700|Noto+Sans+SC:700|Zilla+Slab:700");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/616bdde86e5946a0d2932d7b.616bddea5b10338defb5bc9f.qcUWST8.hcp.png");
+
+@font-face {
+  font-family: "Helvetica Neue LT Std-55Roman";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/HelveticaNeueLTStd-Roman.otf") format("opentype");
+}
+@font-face {
+  font-family: "Helvetica Neue LT Std-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/HelveticaNeueLTStd-Bd.otf") format("opentype");
+}
+@font-face {
+  font-family: "Helvetica Neue LT Std-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/HelveticaNeueLTStd-Roman.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}

@@ -1,0 +1,328 @@
+/* screen - going-west */
+
+.going-west {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 2027.23px;
+  min-width: 428px;
+  padding: 65px 44px;
+  width: 100%;
+}
+
+.going-west .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.going-west .img-group-18243 {
+  height: 130.08px;
+  min-width: 269px;
+}
+
+.going-west .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 263px;
+}
+
+.going-west .text-137 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.going-west .going-west-1 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.going-west .and-far-beyond {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.going-west .group-181 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  min-width: 340px;
+  position: relative;
+}
+
+.going-west .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-39@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.going-west .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-57@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.going-west .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 59px;
+}
+
+.going-west .group-17950-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 305px;
+}
+
+.going-west .text-138 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 301px;
+}
+
+.going-west .pasta-pastis-pork-bellystewed-beef {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.going-west .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-40@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.going-west .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-58@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.going-west .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 273px;
+}
+
+.going-west .text-139 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 269px;
+}
+
+.going-west .fish-and-chips-with-tartar-sauce {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.going-west .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-41@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.going-west .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-59@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.going-west .text-140 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.going-west .crispy-chicken-breast {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 269px;
+}
+
+.going-west .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-42@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.going-west .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-60@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.going-west .group-17950-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 295px;
+}
+
+.going-west .text-14 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 291px;
+}
+
+.going-west .x-burger {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 291px;
+}
+
+.going-west .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-43@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.going-west .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-61@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.going-west .group-18118 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  margin-bottom: -4.58e-05px;
+  min-width: 340px;
+  position: relative;
+}
+
+.going-west .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-44@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.going-west .overlap-group-5 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-62@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.going-west .spicy-chicken-burger {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}

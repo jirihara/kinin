@@ -1,0 +1,330 @@
+/* screen - classics */
+
+.classics {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 2027.16px;
+  min-width: 428px;
+  padding: 65px 44px;
+  width: 100%;
+}
+
+.classics .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.classics .group-18244 {
+  height: 130px;
+  min-width: 205px;
+}
+
+.classics .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 199px;
+}
+
+.classics .text-90 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.classics .classics-1 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.classics .dive-in-to-the-culture {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.classics .group-181 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  min-width: 340px;
+  position: relative;
+}
+
+.classics .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-30@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.classics .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-48@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 171px;
+  padding: 29.3px 34.2px;
+}
+
+.classics .text-91 {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 98px;
+}
+
+.classics .group-17950-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 273px;
+}
+
+.classics .text-9 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.classics .surname {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 269px;
+}
+
+.classics .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-31@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.classics .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-49@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.classics .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 59px;
+}
+
+.classics .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 295px;
+}
+
+.classics .text-9-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 291px;
+}
+
+.classics .lemongrass-pork-veg {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 291px;
+}
+
+.classics .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-32@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.classics .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-50@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.classics .kampot-lok-lak-veg {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.classics .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-33@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.classics .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-51@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.classics .group-17950-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 226px;
+}
+
+.classics .spicy-beef-rice-wine {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.classics .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-34@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.classics .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-52@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.classics .group-17950-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 260px;
+}
+
+.classics .nom-pang-sach-jrouk-khor-sandwich {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 256px;
+}
+
+.classics .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-35@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.classics .overlap-group-5 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-53@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.classics .steak-sandwich {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}

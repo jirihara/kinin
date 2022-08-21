@@ -1,0 +1,312 @@
+/* screen - slow-coock */
+
+.slow-coock {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 1408.3px;
+  min-width: 428px;
+  padding: 65px 44px;
+  width: 100%;
+}
+
+.slow-coock .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.slow-coock .group-18241 {
+  height: 129px;
+  min-width: 241px;
+}
+
+.slow-coock .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 129px;
+  width: 235px;
+}
+
+.slow-coock .text-58 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.slow-coock .slow-cook {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.slow-coock .but-not-that-slow {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 23px;
+  white-space: nowrap;
+}
+
+.slow-coock .group-1812 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  min-width: 340px;
+  position: relative;
+}
+
+.slow-coock .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-45@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.slow-coock .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/vector-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.8px;
+  min-width: 231px;
+  padding: 29.8px 27.9px;
+}
+
+.slow-coock .sl-6 {
+  letter-spacing: 0;
+  min-height: 26px;
+  width: 164px;
+}
+
+.slow-coock .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 305px;
+}
+
+.slow-coock .text-59 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 301px;
+}
+
+.slow-coock .caramelised-pork-belly {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.slow-coock .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-46@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.slow-coock .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/vector-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -18px;
+  margin-top: -9.89px;
+  min-width: 238px;
+  padding: 29.8px 35.2px;
+}
+
+.slow-coock .group-17950-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 273px;
+}
+
+.slow-coock .text-60 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 269px;
+}
+
+.slow-coock .khor-bourguignon {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.slow-coock .img-group-18196 {
+  background-color: var(--aqua-forest);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8;
+  height: 478px;
+  margin-bottom: -6.1e-05px;
+  min-width: 340px;
+}
+
+.slow-coock .group-17950-2 {
+  align-items: center;
+  display: flex;
+  height: 427px;
+  left: 31px;
+  min-width: 301px;
+  position: relative;
+  top: 25px;
+}
+
+.slow-coock .text-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 73.0px;
+  min-height: 218px;
+  width: 21px;
+}
+
+.slow-coock .text-67 {
+  letter-spacing: 0;
+  min-height: 38px;
+  width: 21px;
+}
+
+.slow-coock .text {
+  letter-spacing: 0;
+  margin-top: 22px;
+  min-height: 38px;
+  width: 21px;
+}
+
+.slow-coock .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 38px;
+  min-height: 427px;
+  width: 231px;
+}
+
+.slow-coock .group-18134 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 44px;
+  width: 225px;
+}
+
+.slow-coock .text-6 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.slow-coock .extra-sides {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.slow-coock .group-18130 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 22px;
+  min-height: 48px;
+  width: 225px;
+}
+
+.slow-coock .baked-baby-potatoes {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.slow-coock .group-1813 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  min-height: 48px;
+  width: 225px;
+}
+
+.slow-coock .steamed-rice {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.slow-coock .fresh-baguette {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.slow-coock .surname {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.slow-coock .text-61 {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans_sc);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: 28px;
+  min-height: 28px;
+  width: 221px;
+}
+
+.slow-coock .choose-one-side-for {
+  color: var(--mercury);
+  font-family: var(--font-family-helvetica_neue_lt_std-55roman);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 22px;
+  min-height: 55px;
+  width: 231px;
+}

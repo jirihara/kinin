@@ -1,0 +1,241 @@
+/* screen - dessert */
+
+.dessert {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 1461.81px;
+  min-width: 428px;
+  padding: 65px 44px;
+  width: 100%;
+}
+
+.dessert .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.dessert .group-18240 {
+  height: 130.08px;
+  min-width: 187px;
+}
+
+.dessert .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 181px;
+}
+
+.dessert .text-19 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.dessert .dessert-1 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.dessert .for-a-sweet-tooth {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.dessert .group-18285 {
+  height: 1095.86px;
+  min-width: 340px;
+}
+
+.dessert .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 1096px;
+  width: 340px;
+}
+
+.dessert .group-18124 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  display: flex;
+  flex-direction: column;
+  min-height: 248px;
+  width: 340px;
+}
+
+.dessert .group-container {
+  height: 174px;
+  margin-left: -14.72px;
+  margin-top: -9px;
+  position: relative;
+  width: 355px;
+}
+
+.dessert .mask-group {
+  height: 165px;
+  left: 15px;
+  position: absolute;
+  top: 9px;
+  width: 340px;
+}
+
+.dessert .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-26@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+  position: absolute;
+  top: 0;
+}
+
+.dessert .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 59px;
+}
+
+.dessert .group-17950-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 7.58px;
+  margin-top: 17px;
+  min-height: 44px;
+  width: 305px;
+}
+
+.dessert .text-20 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 301px;
+}
+
+.dessert .mango-sticky-rice {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.dessert .group-1812 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  display: flex;
+  flex-direction: column;
+  margin-top: 35px;
+  min-height: 248px;
+  width: 340px;
+}
+
+.dessert .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-27@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+  position: absolute;
+  top: 0;
+}
+
+.dessert .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 13.68px;
+  margin-top: 17px;
+  min-height: 44px;
+  width: 273px;
+}
+
+.dessert .text-21 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 269px;
+}
+
+.dessert .orange-chocolate-mousse {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.dessert .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-28@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+  position: absolute;
+  top: 0;
+}
+
+.dessert .text-2 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.dessert .walnut-brownie {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 269px;
+}
+
+.dessert .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-29@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+  position: absolute;
+  top: 0;
+}
+
+.dessert .ice-cream-sorbet {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 269px;
+}

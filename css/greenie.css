@@ -1,0 +1,268 @@
+/* screen - greenie */
+
+.greenie {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 1744.44px;
+  min-width: 424px;
+  padding: 65px 42px;
+  width: 100%;
+}
+
+.greenie .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.greenie .group-18245 {
+  height: 130px;
+  min-width: 205px;
+}
+
+.greenie .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 199px;
+}
+
+.greenie .text-71 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.greenie .greenie-1 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.greenie .the-healthy-option {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.greenie .group-1 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  min-width: 340px;
+  position: relative;
+}
+
+.greenie .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-13@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.greenie .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-31@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.greenie .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 59px;
+}
+
+.greenie .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 226px;
+}
+
+.greenie .text-7 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.greenie .x-salad {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.greenie .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-14@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.greenie .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-32@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.greenie .group-17950-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 273px;
+}
+
+.greenie .text-73 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 269px;
+}
+
+.greenie .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-15@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.greenie .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-33@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.greenie .group-17950-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 291px;
+}
+
+.greenie .roasted-chicken-and-green-mango-salad {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 287px;
+}
+
+.greenie .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-16@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.greenie .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-34@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.greenie .group-18107 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  margin-bottom: -4.58e-05px;
+  min-width: 340px;
+  position: relative;
+}
+
+.greenie .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-17@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.greenie .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-35@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}

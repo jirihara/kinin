@@ -1,0 +1,520 @@
+/* screen - starters */
+
+.starters {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 4006.16px;
+  min-width: 424px;
+  padding: 65px 42px;
+  width: 100%;
+}
+
+.starters .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.starters .group-18246 {
+  height: 130px;
+  min-width: 208px;
+}
+
+.starters .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 202px;
+}
+
+.starters .text-77 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.starters .starters-1 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.starters .something-small {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.starters .group-1 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  min-width: 340px;
+  position: relative;
+}
+
+.starters .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-18@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-36@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 59px;
+}
+
+.starters .frame-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 45px;
+  left: 14px;
+  position: absolute;
+  top: 182px;
+  width: 221px;
+}
+
+.starters .text-78 {
+  height: 28px;
+  letter-spacing: 0;
+  margin-top: -1.21px;
+  width: 221.05px;
+}
+
+.starters .surname {
+  height: 14.57px;
+  letter-spacing: 0;
+  width: 221.13px;
+}
+
+.starters .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-19@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-37@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 226px;
+}
+
+.starters .text {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.starters .deep-fried-spring-rolls-veg-meat {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-20@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-38@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .super-fresh-vegies {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-21@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-39@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .kumbhaka-egg {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-22@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-40@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .chicken-nuggets {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-23@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-5 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-41@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .sesame-beef-jerky {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group7 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-24@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-6 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-42@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .homemade-roasted-cashew-nuts {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group8 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-25@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-7 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-43@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .surname-1 {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .group-18108 {
+  height: 320.57px;
+  margin-left: -31.43px;
+  margin-right: -41.43px;
+  min-width: 412.86px;
+}
+
+.starters .overlap-group9 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-26@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-8 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-44@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .lemongrass-beef-sticks {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group10 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-27@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-9 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-45@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .eggplant-toast-veg-opt-possible {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .overlap-group11 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-28@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-10 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-46@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .kumbhaka-cold-cut-platter {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.starters .group-18112 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  margin-bottom: 0px;
+  min-width: 340px;
+  position: relative;
+}
+
+.starters .overlap-group12 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-29@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.starters .overlap-group-11 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-47@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.starters .kumbhaka-snack-platter {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}

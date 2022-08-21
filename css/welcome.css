@@ -1,0 +1,273 @@
+/* screen - welcome */
+
+.welcome {
+  align-items: center;
+  background-color: var(--outrageous-orange);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  min-height: 842px;
+  min-width: 426px;
+  padding: 65px 102px;
+  width: 100%;
+}
+
+.welcome .welcome-to-kinin {
+  color: var(--white);
+  font-family: var(--font-family-zilla_slab);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.5px;
+  margin-top: -1px;
+  min-width: 181px;
+  text-align: center;
+}
+
+.welcome .frame-182 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 222px;
+}
+
+.welcome .frame-1826 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  padding: 5px 15px;
+  width: min-content;
+}
+
+.welcome .group-182 {
+  height: 60px;
+  min-width: 70px;
+  position: relative;
+}
+
+.welcome .vector-2-1 {
+  height: 43px;
+  left: 4px;
+  position: absolute;
+  top: 8px;
+  width: 62px;
+}
+
+.welcome .group-1827 {
+  height: 43px;
+  margin-right: -4px;
+  min-width: 81px;
+  position: relative;
+}
+
+.welcome .starters {
+  left: 5px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .text-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 77px;
+}
+
+.welcome .frame-1826-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  padding: 5px 15px;
+  width: 106px;
+}
+
+.welcome .vector-1-1 {
+  height: 49px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 49px;
+}
+
+.welcome .group-18269 {
+  height: 43px;
+  margin-left: -3px;
+  margin-right: -7px;
+  min-width: 86px;
+  position: relative;
+}
+
+.welcome .greenie {
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .text-12 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 82px;
+}
+
+.welcome .group-18239 {
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  top: 7px;
+  width: 68px;
+}
+
+.welcome .classics {
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .group-18259-1 {
+  height: 51px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+
+.welcome .group-18271 {
+  height: 43px;
+  margin-left: -2px;
+  margin-right: -6px;
+  min-width: 84px;
+  position: relative;
+}
+
+.welcome .going-west {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .text-14 {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 58px;
+}
+
+.welcome .frame-1826-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: min-content;
+  justify-content: center;
+  padding: 5px 15px;
+  width: min-content;
+}
+
+.welcome .vector {
+  height: 47px;
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  width: 51px;
+}
+
+.welcome .specials {
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .group-18235-1 {
+  height: 50px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 60px;
+}
+
+.welcome .group-1827-1 {
+  height: 43px;
+  margin-right: -4px;
+  min-width: 80px;
+  position: relative;
+}
+
+.welcome .slow-cook {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .text-1-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 76px;
+}
+
+.welcome .frame {
+  height: 58px;
+  left: 9px;
+  position: absolute;
+  top: 1px;
+  width: 52px;
+}
+
+.welcome .dessert {
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.welcome .group-18236 {
+  height: 52px;
+  left: 26px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.welcome .drinks {
+  left: 14px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}

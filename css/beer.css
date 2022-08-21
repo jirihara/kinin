@@ -1,0 +1,320 @@
+/* screen - beer */
+
+.beer {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 100vh;
+  min-height: 1050.87px;
+  min-width: 428px;
+  padding: 63px 44px;
+  width: 100%;
+}
+
+.beer .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.beer .group-18199 {
+  height: 101px;
+  min-width: 111px;
+}
+
+.beer .overlap-group {
+  height: 101px;
+  position: relative;
+  width: 107px;
+}
+
+.beer .place {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50.5px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.beer .text-24 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.beer .group-18237 {
+  height: 238px;
+  min-width: 262px;
+  position: relative;
+}
+
+.beer .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 238px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.beer .group-18158 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  min-height: 66px;
+  padding: 7px 11px;
+  width: 121px;
+}
+
+.beer .text-2 {
+  letter-spacing: 0;
+  min-height: 28px;
+  text-align: center;
+  width: 96px;
+}
+
+.beer .place-1 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.beer .group-181 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 66px;
+  padding: 7px 11px;
+  width: 121px;
+}
+
+.beer .cocktails {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.beer .coffee-tea {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.beer .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 141px;
+  min-height: 152px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.beer .group-18159 {
+  align-items: flex-end;
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  display: flex;
+  flex-direction: column;
+  min-height: 66px;
+  padding: 9px 12px;
+  width: 121px;
+}
+
+.beer .place-2 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.beer .soft-drinks {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.beer .group-18165 {
+  height: 62px;
+  margin-right: -4px;
+  min-width: 344px;
+  position: relative;
+}
+
+.beer .text-30 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.beer .place-3 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 38px;
+  width: 335px;
+}
+
+.beer .group-18192 {
+  height: 348px;
+  margin-right: -10px;
+  min-width: 350px;
+}
+
+.beer .overlap-group5 {
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8;
+  height: 348px;
+  position: relative;
+  width: 340px;
+}
+
+.beer .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-106@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 206px;
+  min-width: 133px;
+  padding: 30.3px 38.9px;
+  position: absolute;
+  top: 3px;
+}
+
+.beer .price {
+  letter-spacing: 0;
+  min-height: 27px;
+  text-align: center;
+  width: 52px;
+}
+
+.beer .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-106-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 206px;
+  min-width: 133px;
+  padding: 30.3px 38.9px;
+  position: absolute;
+  top: 66px;
+}
+
+.beer .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-106-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 206px;
+  min-width: 133px;
+  padding: 30.3px 38.9px;
+  position: absolute;
+  top: 123px;
+}
+
+.beer .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-106-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 206px;
+  min-width: 133px;
+  padding: 30.3px 38.9px;
+  position: absolute;
+  top: 180px;
+}
+
+.beer .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-106-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 206px;
+  min-width: 133px;
+  padding: 30.3px 38.9px;
+  position: absolute;
+  top: 237px;
+}
+
+.beer .angkor-draught {
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 30px;
+  width: 221px;
+}
+
+.beer .fuzzy-logic-brewing-co {
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 91px;
+  width: 221px;
+}
+
+.beer .surname {
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 148px;
+  width: 221px;
+}
+
+.beer .riel-brewing-distillery {
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 205px;
+  width: 221px;
+}
+
+.beer .lion-brewery {
+  left: 21px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 262px;
+  width: 221px;
+}

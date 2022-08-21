@@ -1,0 +1,834 @@
+/* screen - coocktails */
+
+.coocktails {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  height: 100vh;
+  min-height: 2808.87px;
+  min-width: 428px;
+  padding: 63px 44px;
+  width: 100%;
+}
+
+.coocktails .group-18102 {
+  cursor: pointer;
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.coocktails .group-18256 {
+  height: 101px;
+  min-width: 227px;
+}
+
+.coocktails .overlap-group-1 {
+  height: 101px;
+  position: relative;
+  width: 223px;
+}
+
+.coocktails .cocktails {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50.5px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.coocktails .text-31 {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 50.5px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.coocktails .group-18239 {
+  height: 238px;
+  min-width: 262px;
+  position: relative;
+}
+
+.coocktails .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 238px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.coocktails .group-1815 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  min-height: 66px;
+  padding: 7px 11px;
+  width: 121px;
+}
+
+.coocktails .text-3 {
+  letter-spacing: 0;
+  min-height: 28px;
+  text-align: center;
+  width: 96px;
+}
+
+.coocktails .place {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.coocktails .group-18160 {
+  align-items: flex-end;
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 66px;
+  padding: 9px 12px;
+  width: 121px;
+}
+
+.coocktails .cocktails-1 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.coocktails .group-181 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 18.21px 18.21px 36.43px #d3d1d840;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 66px;
+  padding: 7px 11px;
+  width: 121px;
+}
+
+.coocktails .coffee-tea {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.coocktails .group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 141px;
+  min-height: 152px;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.coocktails .place-1 {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.coocktails .soft-drinks {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  text-align: center;
+  width: 96px;
+}
+
+.coocktails .group-18165 {
+  height: 72px;
+  margin-right: -4px;
+  min-width: 344px;
+  position: relative;
+}
+
+.coocktails .text-37 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 232px;
+}
+
+.coocktails .cocktails-2 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 48px;
+  width: 340px;
+}
+
+.coocktails .group-18257 {
+  height: 1301px;
+  margin-right: -4px;
+  min-width: 344px;
+}
+
+.coocktails .overlap-group14 {
+  align-items: flex-end;
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8;
+  display: flex;
+  flex-direction: column;
+  min-height: 1301px;
+  width: 340px;
+}
+
+.coocktails .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 919px;
+  margin-right: -3.19px;
+  margin-top: -8px;
+  min-width: 329px;
+}
+
+.coocktails .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8.5px;
+  min-height: 882px;
+  width: 177px;
+}
+
+.coocktails .aperol-spritz {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 152px;
+}
+
+.coocktails .flex-col-item {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .bokor-sunrise {
+  letter-spacing: 0;
+  margin-top: 39px;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .boulevardier {
+  letter-spacing: 0;
+  margin-top: 37px;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .flex-col-item-1 {
+  letter-spacing: 0;
+  margin-top: 38px;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  min-height: 919px;
+  width: 133px;
+}
+
+.coocktails .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 22px;
+}
+
+.coocktails .overlap-group1-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-5@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group6 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-6@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group7 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-7@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group8 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-8@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group9 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-9@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-top: 1px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group {
+  height: 91px;
+  margin-right: -3.19px;
+  margin-top: 1px;
+  position: relative;
+  width: 329px;
+}
+
+.coocktails .overlap-group1 {
+  height: 91px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 329px;
+}
+
+.coocktails .overlap-group10 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-10@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 197px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+  position: absolute;
+  top: 0;
+}
+
+.coocktails .pomelo-passion-mojito {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 28px;
+  width: 212px;
+}
+
+.coocktails .surname {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 67px;
+  width: 177px;
+}
+
+.coocktails .overlap-group11 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-11@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 197px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+  position: absolute;
+  top: 0;
+}
+
+.coocktails .smokey-daiquiri {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 28px;
+  width: 212px;
+}
+
+.coocktails .surname-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 67px;
+  width: 177px;
+}
+
+.coocktails .overlap-group12 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-12@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 197px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+  position: absolute;
+  top: 0;
+}
+
+.coocktails .thai-basil-smash {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 28px;
+  width: 212px;
+}
+
+.coocktails .gin-lime-sugar-syrup-thai-basil {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 67px;
+  width: 177px;
+}
+
+.coocktails .overlap-group13 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-13@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 197px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+  position: absolute;
+  top: 0;
+}
+
+.coocktails .amaretto-whiskey-sour {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 28px;
+  width: 232px;
+}
+
+.coocktails .amaretto-bourbon-lime-sugar-syrup {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 67px;
+  width: 177px;
+}
+
+.coocktails .group-18258 {
+  height: 313px;
+  margin-right: -2px;
+  min-width: 342px;
+}
+
+.coocktails .overlap-group23 {
+  height: 313px;
+  position: relative;
+  width: 344px;
+}
+
+.coocktails .overlap-group2-1 {
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.coocktails .rectangle-4137 {
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8;
+  height: 313px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.coocktails .glass {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans_sc);
+  font-size: 15px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+}
+
+.coocktails .jug {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans_sc);
+  font-size: 15px;
+  font-weight: 700;
+  left: 191px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+}
+
+.coocktails .group-18132 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 29px;
+  min-height: 39px;
+  position: absolute;
+  top: 146px;
+  width: 225px;
+}
+
+.coocktails .red-citrus {
+  letter-spacing: 0;
+  min-height: 23px;
+  width: 221px;
+}
+
+.coocktails .h-or {
+  color: var(--mercury);
+  font-family: var(--font-family-helvetica_neue_lt_std-56italic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 11px;
+  width: 221px;
+}
+
+.coocktails .group-18171 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 29px;
+  min-height: 39px;
+  position: absolute;
+  top: 218px;
+  width: 225px;
+}
+
+.coocktails .tropical-blush {
+  letter-spacing: 0;
+  min-height: 23px;
+  width: 221px;
+}
+
+.coocktails .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-14@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 63px;
+  min-width: 133px;
+  padding: 29.3px 41.0px;
+  position: absolute;
+  top: 68px;
+}
+
+.coocktails .price-1 {
+  letter-spacing: 0;
+  min-height: 22px;
+  text-align: center;
+  width: 51px;
+}
+
+.coocktails .overlap-group1-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-15@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  left: 211px;
+  min-width: 133px;
+  padding: 29.3px 41.0px;
+  position: absolute;
+  top: 68px;
+}
+
+.coocktails .sangrias {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans_sc);
+  font-size: 20px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 31px;
+  width: 131px;
+}
+
+.coocktails .group-18173 {
+  background-color: var(--outrageous-orange);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8;
+  height: 292px;
+  min-width: 340px;
+}
+
+.coocktails .group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 29px;
+  min-height: 234px;
+  position: relative;
+  top: 34px;
+  width: 287px;
+}
+
+.coocktails .group-18134 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  min-height: 44px;
+  width: 225px;
+}
+
+.coocktails .text-39 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.coocktails .others {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.coocktails .group-container-3 {
+  height: 48px;
+  margin-left: 0;
+  margin-top: 12px;
+  position: relative;
+  width: 287px;
+}
+
+.coocktails .group-1813 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 48px;
+  position: absolute;
+  top: 0;
+  width: 225px;
+}
+
+.coocktails .mixed-drinks {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.coocktails .rum-coke-gin-to {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.coocktails .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-16@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  left: 181px;
+  min-width: 133px;
+  padding: 29.3px 41.0px;
+  position: absolute;
+  top: -20px;
+}
+
+.coocktails .price-2 {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 51px;
+}
+
+.coocktails .group-container-4 {
+  height: 48px;
+  margin-top: 22px;
+  position: relative;
+  width: 287px;
+}
+
+.coocktails .text-38 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.coocktails .pastis {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.coocktails .overlap-group1-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-17@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  left: 181px;
+  min-width: 133px;
+  padding: 29.4px 53.7px;
+  position: absolute;
+  top: -20px;
+}
+
+.coocktails .group-container-5 {
+  height: 48px;
+  margin-top: 12px;
+  position: relative;
+  width: 287px;
+}
+
+.coocktails .text-40 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.coocktails .jackfruit-vodka-shot {
+  letter-spacing: 0;
+  margin-top: 6px;
+  min-height: 14px;
+  width: 221px;
+}
+
+.coocktails .overlap-group2-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-18@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  left: 181px;
+  min-width: 133px;
+  padding: 29.4px 53.7px;
+  position: absolute;
+  top: -20px;
+}
