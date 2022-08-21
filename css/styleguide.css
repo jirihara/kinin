@@ -23,7 +23,7 @@
   --font-family-helvetica_neue_lt_std-85heavy: "Helvetica Neue LT Std-85Heavy", Helvetica;
   --font-family-helvetica_neue_lt_std-bold: "Helvetica Neue LT Std-Bold", Helvetica;
   --font-family-helvetica_neue_lt_std-regular: "Helvetica Neue LT Std-Regular", Helvetica;
-  --font-family-noto_sans_sc: "Noto Sans SC", Helvetica;
+  --font-family-noto_sans_sc-bold: "Noto Sans SC-Bold", Helvetica;
   --font-family-poppins: "Poppins", Helvetica;
   --font-family-zilla_slab: "Zilla Slab", Helvetica;
 }
@@ -68,7 +68,7 @@
 
 .notosanssc-bold-black-18-2px {
   color: var(--black);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: var(--font-size-xxxl);
   font-style: normal;
   font-weight: 700;
@@ -76,7 +76,7 @@
 
 .notosanssc-bold-white-23px {
   color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: var(--font-size-xxxxl);
   font-style: normal;
   font-weight: 700;
@@ -90,26 +90,18 @@
   font-weight: 400;
 }
 
-.notosanssc-bold-black-18px {
-  color: var(--black);
-  font-family: var(--font-family-noto_sans_sc);
-  font-size: var(--font-size-xxl);
+.poppins-bold-outrageous-orange-14px {
+  color: var(--outrageous-orange);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
 }
 
 .notosanssc-bold-white-16px {
   color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: var(--font-size-xl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.poppins-bold-outrageous-orange-14px {
-  color: var(--outrageous-orange);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-l);
   font-style: normal;
   font-weight: 700;
 }
@@ -122,14 +114,6 @@
   font-weight: 700;
 }
 
-.helveticaneueltstd-56italic-normal-cultured-pearl-11px {
-  color: var(--cultured-pearl);
-  font-family: var(--font-family-helvetica_neue_lt_std-56italic);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
-}
-
 .helveticaneueltstd-85heavy-normal-white-32px {
   color: var(--white);
   font-family: var(--font-family-helvetica_neue_lt_std-85heavy);
@@ -138,17 +122,97 @@
   font-weight: 400;
 }
 
+.helveticaneueltstd-56italic-normal-cultured-pearl-11px {
+  color: var(--cultured-pearl);
+  font-family: var(--font-family-helvetica_neue_lt_std-56italic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
 .notosanssc-bold-black-16px {
   color: var(--black);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosanssc-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosanssc-bold-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneueltstd-55roman-normal-manatee-19px {
+  color: var(--manatee);
+  font-family: var(--font-family-helvetica_neue_lt_std-55roman);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneueltstd-55roman-normal-chicago-24px {
+  color: var(--chicago);
+  font-family: var(--font-family-helvetica_neue_lt_std-55roman);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.notosanssc-bold-outrageous-orange-32px {
+  color: var(--outrageous-orange);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-bold-outrageous-orange-45-9px {
+  color: var(--outrageous-orange);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosanssc-bold-outrageous-orange-45-9px {
+  color: var(--outrageous-orange);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosanssc-bold-white-18-2px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.notosanssc-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: var(--font-size-xxl);
   font-style: normal;
   font-weight: 700;
 }
 
 .notosanssc-bold-outrageous-orange-25px {
   color: var(--outrageous-orange);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: 25px;
   font-style: normal;
   font-weight: 700;
@@ -162,42 +226,34 @@
   font-weight: 400;
 }
 
-.notosanssc-bold-white-18px {
+.helveticaneueltstd-55roman-normal-white-11px {
   color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
-  font-size: var(--font-size-xxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.helveticaneueltstd-55roman-normal-manatee-19px {
-  color: var(--manatee);
   font-family: var(--font-family-helvetica_neue_lt_std-55roman);
-  font-size: 19px;
+  font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 400;
 }
 
-.poppins-bold-outrageous-orange-45-9px {
-  color: var(--outrageous-orange);
-  font-family: var(--font-family-poppins);
-  font-size: var(--font-size-xxxxxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.notosanssc-bold-outrageous-orange-45-9px {
-  color: var(--outrageous-orange);
-  font-family: var(--font-family-noto_sans_sc);
-  font-size: var(--font-size-xxxxxl);
-  font-style: normal;
-  font-weight: 700;
-}
-
-.notosanssc-bold-white-18-2px {
+.notosanssc-bold-white-15px {
   color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
-  font-size: var(--font-size-xxxl);
+  font-family: var(--font-family-noto_sans_sc-bold);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helveticaneueltstd-56italic-normal-mercury-11px {
+  color: var(--mercury);
+  font-family: var(--font-family-helvetica_neue_lt_std-56italic);
+  font-size: var(--font-size-m);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.zillaslab-bold-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-zilla_slab);
+  font-size: 35px;
   font-style: normal;
   font-weight: 700;
 }

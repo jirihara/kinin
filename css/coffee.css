@@ -26,7 +26,7 @@
   min-width: 277px;
 }
 
-.coffee .overlap-group-3 {
+.coffee .overlap-group-2 {
   height: 101px;
   position: relative;
   width: 273px;
@@ -41,7 +41,7 @@
   white-space: nowrap;
 }
 
-.coffee .text-41 {
+.coffee .text-75 {
   left: 0;
   letter-spacing: 0;
   line-height: 50.5px;
@@ -80,7 +80,7 @@
   width: 121px;
 }
 
-.coffee .text-4 {
+.coffee .text {
   letter-spacing: 0;
   min-height: 28px;
   text-align: center;
@@ -130,10 +130,6 @@
 }
 
 .coffee .coffee-tea-1 {
-  color: var(--white);
-  font-family: var(--font-family-helvetica_neue_lt_std-55roman);
-  font-size: var(--font-size-m);
-  font-weight: 400;
   letter-spacing: 0;
   margin-top: 6px;
   min-height: 14px;
@@ -189,7 +185,7 @@
   position: relative;
 }
 
-.coffee .text-47 {
+.coffee .text-81 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -246,7 +242,7 @@
   width: 340px;
 }
 
-.coffee .overlap-group-1 {
+.coffee .overlap-group-3 {
   align-items: flex-start;
   background-image: url(../img/group-17482-23@2x.svg);
   background-size: 100% 100%;
@@ -309,7 +305,7 @@
 
 .coffee .overlap-group-4 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-20@2x.svg);
+  background-image: url(../img/group-17482-24@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 88px;
@@ -326,7 +322,7 @@
   min-width: 340px;
 }
 
-.coffee .overlap-group-2 {
+.coffee .overlap-group-1 {
   border-radius: 18.21px;
   height: 260px;
   position: relative;
@@ -356,7 +352,7 @@
 
 .coffee .overlap-group-5 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-21@2x.svg);
+  background-image: url(../img/group-17482-25@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 90px;
@@ -391,7 +387,21 @@
 
 .coffee .overlap-group-6 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-22@2x.svg);
+  background-image: url(../img/group-17482-26@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 88px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 133px;
+  padding: 29.2px 28.4px;
+  position: absolute;
+  top: 0;
+}
+
+.coffee .overlap-group-7 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-27@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 88px;
@@ -405,7 +415,7 @@
 
 .coffee .overlap-group1-1 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-24@2x.svg);
+  background-image: url(../img/group-17482-28@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 88px;
@@ -526,9 +536,9 @@
   width: 340px;
 }
 
-.coffee .overlap-group-7 {
+.coffee .overlap-group-8 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-25@2x.svg);
+  background-image: url(../img/group-17482-29@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 90px;
@@ -582,13 +592,13 @@
   width: 21px;
 }
 
-.coffee .text-52 {
+.coffee .text-86 {
   letter-spacing: 0;
   min-height: 38px;
   width: 21px;
 }
 
-.coffee .text-5 {
+.coffee .text-8 {
   letter-spacing: 0;
   margin-top: 22px;
   min-height: 38px;
@@ -612,7 +622,7 @@
   width: 225px;
 }
 
-.coffee .text {
+.coffee .text-1 {
   letter-spacing: 0;
   min-height: 28px;
   width: 221px;
@@ -692,16 +702,11 @@
 
 .coffee .tea {
   color: transparent;
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: 32px;
   font-weight: 700;
   letter-spacing: 0;
   min-height: 46px;
-}
-
-.coffee .span0 {
-  color: var(--outrageous-orange);
-  font-weight: 700;
 }
 
 .coffee .span1 {
@@ -777,7 +782,7 @@
   padding: 22px 25.5px;
 }
 
-.coffee .text-57 {
+.coffee .text-91 {
   align-self: flex-end;
   letter-spacing: 0;
   margin-bottom: 16px;

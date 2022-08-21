@@ -32,7 +32,7 @@
   width: 252px;
 }
 
-.soft-drink .soft-drinks {
+.soft-drink .title {
   left: 0;
   letter-spacing: 0;
   line-height: 50.5px;
@@ -41,7 +41,7 @@
   white-space: nowrap;
 }
 
-.soft-drink .text-98 {
+.soft-drink .text-9 {
   left: 0;
   letter-spacing: 0;
   line-height: 50.5px;
@@ -80,7 +80,7 @@
   width: 121px;
 }
 
-.soft-drink .text {
+.soft-drink .text-1 {
   letter-spacing: 0;
   min-height: 28px;
   text-align: center;
@@ -157,11 +157,7 @@
   width: 121px;
 }
 
-.soft-drink .soft-drinks-1 {
-  color: var(--white);
-  font-family: var(--font-family-helvetica_neue_lt_std-55roman);
-  font-size: var(--font-size-m);
-  font-weight: 400;
+.soft-drink .soft-drinks {
   letter-spacing: 0;
   margin-top: 6px;
   min-height: 14px;
@@ -176,7 +172,7 @@
   position: relative;
 }
 
-.soft-drink .text-104 {
+.soft-drink .text-15 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -249,7 +245,7 @@
   width: 225px;
 }
 
-.soft-drink .text-1 {
+.soft-drink .text {
   letter-spacing: 0;
   min-height: 28px;
   width: 221px;
@@ -292,7 +288,7 @@
   position: relative;
 }
 
-.soft-drink .text-108 {
+.soft-drink .text-19 {
   left: 0;
   letter-spacing: 0;
   line-height: 26px;
@@ -443,7 +439,7 @@
   width: 221px;
 }
 
-.soft-drink .text-109 {
+.soft-drink .text-20 {
   left: 21px;
   letter-spacing: 0;
   position: absolute;
@@ -462,7 +458,7 @@
   width: 88px;
 }
 
-.soft-drink .text-113 {
+.soft-drink .text-24 {
   letter-spacing: 0;
   min-height: 28px;
   width: 84px;
@@ -759,9 +755,9 @@
   position: relative;
 }
 
-.soft-drink .text-123 {
+.soft-drink .text-34 {
   color: var(--fern);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: 32px;
   font-weight: 700;
   left: 0;
@@ -771,10 +767,6 @@
 }
 
 .soft-drink .juices {
-  color: var(--chicago);
-  font-family: var(--font-family-helvetica_neue_lt_std-55roman);
-  font-size: 24px;
-  font-weight: 400;
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -891,7 +883,7 @@
 
 .soft-drink .overlap-group-5 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-53@2x.svg);
+  background-image: url(../img/group-17482-42@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -952,13 +944,13 @@
   width: 21px;
 }
 
-.soft-drink .text-132 {
+.soft-drink .text-43 {
   letter-spacing: 0;
   min-height: 38px;
   width: 21px;
 }
 
-.soft-drink .text-13 {
+.soft-drink .text-4 {
   letter-spacing: 0;
   margin-top: 22px;
   min-height: 38px;

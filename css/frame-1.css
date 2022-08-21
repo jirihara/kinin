@@ -1,0 +1,724 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 18589px;
+  padding: 197.0px 881px;
+  width: 16265px;
+}
+
+.frame-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0;
+  min-height: 6981px;
+  width: 441px;
+}
+
+.frame-1 .welcome {
+  align-items: flex-start;
+  display: flex;
+  min-width: 428px;
+}
+
+.frame-1 .i-phone-13-pro-max-1 {
+  align-items: flex-start;
+  background-color: var(--outrageous-orange);
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  padding: 64px 102px;
+  width: 428px;
+}
+
+.frame-1 .welcome-to-kinin {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 39.5px;
+  margin-right: 2.0px;
+  min-height: 80px;
+  min-width: 181px;
+  text-align: center;
+}
+
+.frame-1 .frame-18269 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 41px;
+  width: 222px;
+}
+
+.frame-1 .frame-1826 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 5px 15px;
+}
+
+.frame-1 .group-182 {
+  height: 60px;
+  min-width: 70px;
+  position: relative;
+}
+
+.frame-1 .vector-2-1 {
+  height: 43px;
+  left: 4px;
+  position: absolute;
+  top: 8px;
+  width: 62px;
+}
+
+.frame-1 .group-18270 {
+  height: 43px;
+  margin-right: -4px;
+  min-width: 81px;
+  position: relative;
+}
+
+.frame-1 .starters {
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .text-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 77px;
+}
+
+.frame-1 .frame-1826-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 5px 15px;
+  width: 106px;
+}
+
+.frame-1 .vector-1-1 {
+  height: 49px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 49px;
+}
+
+.frame-1 .group-18269 {
+  height: 43px;
+  margin-left: -3px;
+  margin-right: -7px;
+  min-width: 86px;
+  position: relative;
+}
+
+.frame-1 .greenie {
+  left: 12px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .text-157 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 82px;
+}
+
+.frame-1 .frame-1827 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  width: 222px;
+}
+
+.frame-1 .group-18239 {
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  top: 7px;
+  width: 68px;
+}
+
+.frame-1 .group-18272 {
+  height: 43px;
+  margin-right: -4px;
+  min-width: 81px;
+  position: relative;
+}
+
+.frame-1 .classics {
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .group-18259-1 {
+  height: 51px;
+  left: 10px;
+  position: absolute;
+  top: 5px;
+  width: 50px;
+}
+
+.frame-1 .group-18271 {
+  height: 43px;
+  margin-left: -2px;
+  margin-right: -6px;
+  min-width: 84px;
+  position: relative;
+}
+
+.frame-1 .going-west {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .text-159 {
+  left: 11px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 58px;
+}
+
+.frame-1 .frame-1826-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 18.21px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  padding: 5px 15px;
+}
+
+.frame-1 .vector {
+  height: 47px;
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  width: 51px;
+}
+
+.frame-1 .group-1827 {
+  height: 43px;
+  margin-right: -4px;
+  min-width: 81px;
+  position: relative;
+}
+
+.frame-1 .specials {
+  left: 8px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .group-18235-1 {
+  height: 50px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 60px;
+}
+
+.frame-1 .group-1827-1 {
+  height: 43px;
+  margin-right: -4px;
+  min-width: 80px;
+  position: relative;
+}
+
+.frame-1 .slow-cook {
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .text-16 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 76px;
+}
+
+.frame-1 .frame {
+  height: 58px;
+  left: 9px;
+  position: absolute;
+  top: 1px;
+  width: 52px;
+}
+
+.frame-1 .dessert {
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .group-18236 {
+  height: 52px;
+  left: 26px;
+  position: absolute;
+  top: 5px;
+  width: 17px;
+}
+
+.frame-1 .drinks {
+  left: 14px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+}
+
+.frame-1 .wines {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 2414px;
+  margin-top: 3641px;
+  min-width: 401px;
+}
+
+.frame-1 .wines-1 {
+  height: 2434px;
+  margin-top: -10.05px;
+  object-fit: cover;
+  width: 401px;
+}
+
+.frame-1 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 34px;
+  margin-top: 0;
+  min-height: 7273px;
+  width: 451px;
+}
+
+.frame-1 .starters-1 {
+  align-self: flex-end;
+  background-image: url(../img/starters@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4006px;
+  width: 424px;
+}
+
+.frame-1 .soft-drink {
+  background-image: url(../img/soft-drink@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2718px;
+  margin-top: 549px;
+  width: 428px;
+}
+
+.frame-1 .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 11px;
+  margin-top: 0;
+  min-height: 5606px;
+  width: 448px;
+}
+
+.frame-1 .greenie-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 1744px;
+  min-width: 424px;
+}
+
+.frame-1 .greenie-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  padding: 65px 42px;
+}
+
+.frame-1 .group-18102 {
+  height: 75.87px;
+  margin-left: -15px;
+  margin-top: -10px;
+  min-width: 78px;
+}
+
+.frame-1 .group-18245 {
+  height: 130px;
+  min-width: 205px;
+}
+
+.frame-1 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 130px;
+  width: 199px;
+}
+
+.frame-1 .text-164 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.frame-1 .greenie-3 {
+  letter-spacing: 0;
+  line-height: 50.5px;
+  margin-top: 2px;
+  min-height: 51px;
+  white-space: nowrap;
+}
+
+.frame-1 .the-healthy-option {
+  letter-spacing: 0;
+  line-height: 22.8px;
+  margin-top: 2px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.frame-1 .group-1 {
+  background-color: var(--white);
+  border-radius: 18.21px;
+  box-shadow: 5px 18.21px 36.43px #d3d1d8b2;
+  height: 247.71px;
+  min-width: 340px;
+  position: relative;
+}
+
+.frame-1 .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/group-17482@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.frame-1 .price {
+  letter-spacing: 0;
+  min-height: 22px;
+  width: 59px;
+}
+
+.frame-1 .group-17950 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 226px;
+}
+
+.frame-1 .text-16-1 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 221px;
+}
+
+.frame-1 .x-salad {
+  letter-spacing: 0;
+  margin-left: 0.38px;
+  margin-top: 2px;
+  min-height: 15px;
+  width: 221px;
+}
+
+.frame-1 .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.frame-1 .group-17950-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 273px;
+}
+
+.frame-1 .text-166 {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 269px;
+}
+
+.frame-1 .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .overlap-group-2 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.frame-1 .group-17950-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 14px;
+  min-height: 44px;
+  position: absolute;
+  top: 182px;
+  width: 291px;
+}
+
+.frame-1 .roasted-chicken-and-green-mango-salad {
+  letter-spacing: 0;
+  margin-top: 2px;
+  min-height: 14px;
+  width: 287px;
+}
+
+.frame-1 .overlap-group4 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.frame-1 .overlap-group5 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 165px;
+  left: 0;
+  min-width: 340px;
+  position: absolute;
+  top: 0;
+}
+
+.frame-1 .overlap-group-4 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-4@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: -15px;
+  margin-top: -9.3px;
+  min-width: 133px;
+  padding: 29.3px 34.7px;
+}
+
+.frame-1 .beer {
+  background-image: url(../img/beer@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1051px;
+  margin-top: 2811px;
+  width: 428px;
+}
+
+.frame-1 .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 14px;
+  min-height: 8506px;
+  width: 451px;
+}
+
+.frame-1 .classics-1 {
+  align-self: flex-end;
+  background-image: url(../img/classics@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2027px;
+  width: 428px;
+}
+
+.frame-1 .coffee {
+  align-items: flex-end;
+  display: flex;
+  height: 3951px;
+  margin-top: 2528px;
+  min-width: 428px;
+  padding: 26.0px 0;
+}
+
+.frame-1 .coffee-1 {
+  height: 3899px;
+  object-fit: cover;
+  width: 439px;
+}
+
+.frame-1 .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 11px;
+  margin-top: 0;
+  min-height: 7240px;
+  width: 451px;
+}
+
+.frame-1 .going-west-1 {
+  align-self: flex-end;
+  background-image: url(../img/going-west@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2027px;
+  width: 428px;
+}
+
+.frame-1 .coocktails {
+  background-image: url(../img/coocktails@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2685px;
+  margin-top: 2528px;
+  width: 428px;
+}
+
+.frame-1 .specials-1 {
+  background-image: url(../img/specials@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1179px;
+  margin-left: 34px;
+  margin-top: 0;
+  width: 428px;
+}
+
+.frame-1 .slow-coock {
+  background-image: url(../img/slow-coock@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1408px;
+  margin-left: 34px;
+  margin-top: 0;
+  width: 428px;
+}
+
+.frame-1 .dessert-1 {
+  background-image: url(../img/dessert@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1462px;
+  margin-left: 34px;
+  margin-top: 0;
+  width: 428px;
+}

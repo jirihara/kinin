@@ -41,7 +41,7 @@
   white-space: nowrap;
 }
 
-.coocktails .text-31 {
+.coocktails .text-121 {
   left: 0;
   letter-spacing: 0;
   line-height: 50.5px;
@@ -80,7 +80,7 @@
   width: 121px;
 }
 
-.coocktails .text-3 {
+.coocktails .text-12 {
   letter-spacing: 0;
   min-height: 28px;
   text-align: center;
@@ -172,7 +172,7 @@
   position: relative;
 }
 
-.coocktails .text-37 {
+.coocktails .text-127 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
@@ -189,37 +189,37 @@
 }
 
 .coocktails .group-18257 {
-  height: 1301px;
-  margin-right: -4px;
-  min-width: 344px;
-}
-
-.coocktails .overlap-group14 {
-  align-items: flex-end;
   background-color: var(--outrageous-orange);
   border-radius: 18.21px;
   box-shadow: 5px 18.21px 36.43px #d3d1d8;
-  display: flex;
-  flex-direction: column;
-  min-height: 1301px;
-  width: 340px;
+  height: 1301px;
+  min-width: 340px;
 }
 
-.coocktails .flex-row {
-  align-items: flex-end;
-  display: flex;
-  height: 919px;
-  margin-right: -3.19px;
-  margin-top: -8px;
-  min-width: 329px;
-}
-
-.coocktails .flex-col {
+.coocktails .flex-col-1 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
-  margin-bottom: 8.5px;
-  min-height: 882px;
+  left: 14px;
+  min-height: 1211px;
+  position: relative;
+  top: 60px;
+  width: 305px;
+}
+
+.coocktails .ingredients-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  min-width: 177px;
+}
+
+.coocktails .aperol-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -39.0px;
+  min-height: 54px;
   width: 177px;
 }
 
@@ -229,50 +229,22 @@
   width: 152px;
 }
 
-.coocktails .flex-col-item {
+.coocktails .prosecco-aperol-a-splash-of-soda {
   letter-spacing: 0;
   margin-top: 11px;
   min-height: 15px;
   width: 177px;
 }
 
-.coocktails .bokor-sunrise {
-  letter-spacing: 0;
-  margin-top: 39px;
-  min-height: 28px;
-  width: 159px;
-}
-
-.coocktails .boulevardier {
-  letter-spacing: 0;
-  margin-top: 37px;
-  min-height: 28px;
-  width: 159px;
-}
-
-.coocktails .flex-col-item-1 {
-  letter-spacing: 0;
-  margin-top: 38px;
-  min-height: 28px;
-  width: 159px;
-}
-
-.coocktails .overlap-group-container {
-  align-items: flex-start;
-  display: flex;
-  flex-direction: column;
-  margin-left: 20px;
-  min-height: 919px;
-  width: 133px;
-}
-
 .coocktails .overlap-group-2 {
   align-items: flex-start;
-  background-image: url(../img/group-17482@2x.svg);
+  background-image: url(../img/group-17482-4@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
   justify-content: flex-end;
+  margin-left: 20px;
+  margin-top: -68.3px;
   min-width: 133px;
   padding: 29.3px 55.1px;
 }
@@ -283,118 +255,320 @@
   width: 22px;
 }
 
-.coocktails .overlap-group1-1 {
-  align-items: flex-start;
-  background-image: url(../img/group-17482-1@2x.svg);
-  background-size: 100% 100%;
+.coocktails .group-18319 {
+  align-items: flex-end;
   display: flex;
-  height: 91px;
-  justify-content: flex-end;
-  margin-top: 1px;
-  min-width: 133px;
-  padding: 29.3px 55.1px;
+  height: 62px;
+  margin-top: 30px;
+  min-width: 305px;
 }
 
-.coocktails .overlap-group2 {
+.coocktails .flex-col-2 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-2@2x.svg);
-  background-size: 100% 100%;
   display: flex;
-  height: 91px;
-  justify-content: flex-end;
-  margin-top: 1px;
-  min-width: 133px;
-  padding: 29.3px 55.1px;
+  flex-direction: column;
+  min-height: 54px;
+  width: 177px;
 }
 
-.coocktails .overlap-group3 {
-  align-items: flex-start;
-  background-image: url(../img/group-17482-3@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  height: 91px;
-  justify-content: flex-end;
-  margin-top: 1px;
-  min-width: 133px;
-  padding: 29.3px 55.1px;
+.coocktails .bokor-sunrise {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
 }
 
-.coocktails .overlap-group4 {
-  align-items: flex-start;
-  background-image: url(../img/group-17482-4@2x.svg);
-  background-size: 100% 100%;
-  display: flex;
-  height: 91px;
-  justify-content: flex-end;
-  margin-top: 1px;
-  min-width: 133px;
-  padding: 29.3px 55.1px;
+.coocktails .surname {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  width: 177px;
 }
 
-.coocktails .overlap-group5 {
+.coocktails .overlap-group-3 {
   align-items: flex-start;
   background-image: url(../img/group-17482-5@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
   justify-content: flex-end;
-  margin-top: 1px;
+  margin-bottom: -7.5px;
+  margin-left: 20px;
   min-width: 133px;
   padding: 29.3px 55.1px;
 }
 
-.coocktails .overlap-group6 {
+.coocktails .group-1832 {
+  align-items: flex-end;
+  display: flex;
+  height: 62px;
+  margin-top: 30px;
+  min-width: 301px;
+}
+
+.coocktails .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1px;
+  min-height: 54px;
+  width: 177px;
+}
+
+.coocktails .boulevardier {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .bourbon-campari-vermouth {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-4 {
   align-items: flex-start;
   background-image: url(../img/group-17482-6@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
   justify-content: flex-end;
-  margin-top: 1px;
+  margin-bottom: -7.5px;
+  margin-left: 20px;
   min-width: 133px;
   padding: 29.3px 55.1px;
 }
 
-.coocktails .overlap-group7 {
+.coocktails .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1px;
+  min-height: 54px;
+  width: 177px;
+}
+
+.coocktails .extra-dry-martini {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .gin-vermouth-olives {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-5 {
   align-items: flex-start;
   background-image: url(../img/group-17482-7@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
   justify-content: flex-end;
-  margin-top: 1px;
+  margin-bottom: -7.5px;
+  margin-left: 20px;
   min-width: 133px;
   padding: 29.3px 55.1px;
 }
 
-.coocktails .overlap-group8 {
+.coocktails .espresso-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1px;
+  min-height: 54px;
+  width: 177px;
+}
+
+.coocktails .espresso-martini {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .vodka-espresso-kahlua {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-6 {
   align-items: flex-start;
   background-image: url(../img/group-17482-8@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
   justify-content: flex-end;
-  margin-top: 1px;
+  margin-bottom: -7.5px;
+  margin-left: 20px;
   min-width: 133px;
   padding: 29.3px 55.1px;
 }
 
-.coocktails .overlap-group9 {
+.coocktails .ingredients {
+  align-items: flex-start;
+  display: flex;
+  height: 15px;
+  margin-top: 77px;
+  min-width: 177px;
+}
+
+.coocktails .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -40px;
+  min-height: 55px;
+  width: 177px;
+}
+
+.coocktails .pina-colada {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .light-and-dark-rum {
+  letter-spacing: 0;
+  margin-top: 12px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-7 {
   align-items: flex-start;
   background-image: url(../img/group-17482-9@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
   justify-content: flex-end;
-  margin-top: 1px;
+  margin-left: 20px;
+  margin-top: -68.3px;
   min-width: 133px;
   padding: 29.3px 55.1px;
 }
 
-.coocktails .overlap-group {
+.coocktails .margaritas {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .orange-hibiscus-or {
+  letter-spacing: 0;
+  margin-top: 12px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-8 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-10@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
   height: 91px;
-  margin-right: -3.19px;
-  margin-top: 1px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  margin-top: -68.3px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .flex-col-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1px;
+  min-height: 54px;
+  width: 177px;
+}
+
+.coocktails .moscow-mule {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .vodka-ginger-beer-lime {
+  letter-spacing: 0;
+  margin-top: 11px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-9 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-11@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-bottom: -7.5px;
+  margin-left: 20px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .negroni-calssic {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .gin-campari-vermouth-rosso {
+  letter-spacing: 0;
+  margin-top: 12px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-10 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-12@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  margin-top: -68.3px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .old-fashioned {
+  letter-spacing: 0;
+  min-height: 28px;
+  width: 159px;
+}
+
+.coocktails .bourbon-palm-sugar-bitters {
+  letter-spacing: 0;
+  margin-top: 12px;
+  min-height: 15px;
+  width: 177px;
+}
+
+.coocktails .overlap-group-11 {
+  align-items: flex-start;
+  background-image: url(../img/group-17482-13@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 91px;
+  justify-content: flex-end;
+  margin-left: 20px;
+  margin-top: -68.3px;
+  min-width: 133px;
+  padding: 29.3px 55.1px;
+}
+
+.coocktails .overlap-group2 {
+  height: 91px;
+  margin-top: 9px;
   position: relative;
   width: 329px;
 }
@@ -407,9 +581,9 @@
   width: 329px;
 }
 
-.coocktails .overlap-group10 {
+.coocktails .overlap-group-12 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-10@2x.svg);
+  background-image: url(../img/group-17482-14@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -429,17 +603,24 @@
   width: 212px;
 }
 
-.coocktails .surname {
+.coocktails .surname-1 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
-  top: 67px;
+  top: 68px;
   width: 177px;
 }
 
-.coocktails .overlap-group11 {
+.coocktails .overlap-group {
+  height: 91px;
+  margin-top: 1px;
+  position: relative;
+  width: 329px;
+}
+
+.coocktails .overlap-group-13 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-11@2x.svg);
+  background-image: url(../img/group-17482-15@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -459,17 +640,17 @@
   width: 212px;
 }
 
-.coocktails .surname-1 {
+.coocktails .surname-2 {
   left: 0;
   letter-spacing: 0;
   position: absolute;
-  top: 67px;
+  top: 68px;
   width: 177px;
 }
 
-.coocktails .overlap-group12 {
+.coocktails .overlap-group-14 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-12@2x.svg);
+  background-image: url(../img/group-17482-16@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -493,13 +674,13 @@
   left: 0;
   letter-spacing: 0;
   position: absolute;
-  top: 67px;
+  top: 68px;
   width: 177px;
 }
 
-.coocktails .overlap-group13 {
+.coocktails .overlap-group-15 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-13@2x.svg);
+  background-image: url(../img/group-17482-17@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -523,7 +704,7 @@
   left: 0;
   letter-spacing: 0;
   position: absolute;
-  top: 67px;
+  top: 68px;
   width: 177px;
 }
 
@@ -533,7 +714,7 @@
   min-width: 342px;
 }
 
-.coocktails .overlap-group23 {
+.coocktails .overlap-group6 {
   height: 313px;
   position: relative;
   width: 344px;
@@ -559,10 +740,6 @@
 }
 
 .coocktails .glass {
-  color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
-  font-size: 15px;
-  font-weight: 700;
   left: 29px;
   letter-spacing: 0;
   position: absolute;
@@ -571,10 +748,6 @@
 }
 
 .coocktails .jug {
-  color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
-  font-size: 15px;
-  font-weight: 700;
   left: 191px;
   letter-spacing: 0;
   position: absolute;
@@ -600,11 +773,6 @@
 }
 
 .coocktails .h-or {
-  color: var(--mercury);
-  font-family: var(--font-family-helvetica_neue_lt_std-56italic);
-  font-size: var(--font-size-m);
-  font-style: italic;
-  font-weight: 400;
   letter-spacing: 0;
   margin-top: 5px;
   min-height: 11px;
@@ -628,9 +796,9 @@
   width: 221px;
 }
 
-.coocktails .overlap-group-3 {
+.coocktails .overlap-group-16 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-14@2x.svg);
+  background-image: url(../img/group-17482-18@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -649,9 +817,9 @@
   width: 51px;
 }
 
-.coocktails .overlap-group1-2 {
+.coocktails .overlap-group1-1 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-15@2x.svg);
+  background-image: url(../img/group-17482-19@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -665,7 +833,7 @@
 
 .coocktails .sangrias {
   color: var(--white);
-  font-family: var(--font-family-noto_sans_sc);
+  font-family: var(--font-family-noto_sans_sc-bold);
   font-size: 20px;
   font-weight: 700;
   left: 29px;
@@ -703,7 +871,7 @@
   width: 225px;
 }
 
-.coocktails .text-39 {
+.coocktails .text-129 {
   letter-spacing: 0;
   min-height: 28px;
   width: 221px;
@@ -748,9 +916,9 @@
   width: 221px;
 }
 
-.coocktails .overlap-group-4 {
+.coocktails .overlap-group-17 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-16@2x.svg);
+  background-image: url(../img/group-17482-20@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -774,7 +942,7 @@
   width: 287px;
 }
 
-.coocktails .text-38 {
+.coocktails .text-128 {
   letter-spacing: 0;
   min-height: 28px;
   width: 221px;
@@ -787,9 +955,9 @@
   width: 221px;
 }
 
-.coocktails .overlap-group1-3 {
+.coocktails .overlap-group1-2 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-17@2x.svg);
+  background-image: url(../img/group-17482-21@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
@@ -807,7 +975,7 @@
   width: 287px;
 }
 
-.coocktails .text-40 {
+.coocktails .text-130 {
   letter-spacing: 0;
   min-height: 28px;
   width: 221px;
@@ -822,7 +990,7 @@
 
 .coocktails .overlap-group2-2 {
   align-items: flex-start;
-  background-image: url(../img/group-17482-18@2x.svg);
+  background-image: url(../img/group-17482-22@2x.svg);
   background-size: 100% 100%;
   display: flex;
   height: 91px;
