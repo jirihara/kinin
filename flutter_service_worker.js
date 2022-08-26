@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "93042402dad1145aa21ac732eddb3efe",
-"index.html": "296f7de955b059ee52ee4a615979d70a",
-"/": "296f7de955b059ee52ee4a615979d70a",
-"main.dart.js": "b7a56e1b8179fdc382273b61e0573b52",
+"index.html": "9f770394fd14d04a926f6ec68aae04d3",
+"/": "9f770394fd14d04a926f6ec68aae04d3",
+"main.dart.js": "27ad9638dc98d0e409aa8d79ec474192",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -64,7 +64,7 @@ const RESOURCES = {
 "assets/assets/images/west/big_ass_burger.jpg": "28e056161682d1ec0455161092899625",
 "assets/assets/images/west/chicken_burger.jpg": "4758b4075fa02cddd4875eb362023a6d",
 "assets/assets/images/west/fish_and_chips.jpg": "0a86accb2c6a73981687919764abe525",
-"assets/assets/images/west/pasta_pastis.jpg": "22217b41e5e06f0b90dd34c3e0c2297a",
+"assets/assets/images/west/pasta_pastis.jpg": "22275b7502e884dda2d1f8f12cde6ac6",
 "assets/assets/images/west/vegie_burger.jpg": "7f871d6bd2f5f53e8fb58d3f98bb3f71",
 "assets/assets/images/west/chicken_breast.jpg": "ba5f81c39a34155b927d52bad7387706",
 "assets/assets/icons/starters.svg": "86fa94601dd2b85e8b19afb235b97c8e",
